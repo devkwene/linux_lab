@@ -1,0 +1,11 @@
+Section 4: Permissions & Ownership
+
+Created secret.txt
+Permissions set to 640:
+- Owner: read/write
+- Group: read
+- Others: none
+
+Changed group ownership using chgrp
+Verified with ls -l
+
