@@ -1,0 +1,9 @@
+Section 3: Viewing & Searching
+
+Commands used:
+- cat ~/.bashrc
+- less ~/.bashrc
+- head ~/.bashrc
+- tail ~/.bashrc
+- grep PATH ~/.bashrc
+
