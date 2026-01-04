@@ -1,0 +1,10 @@
+Section 5: Process Management
+
+- Started background process using sleep 300 &
+- Found PID using ps and pgrep
+- Paused process with kill -STOP
+- Resumed with kill -CONT
+- Terminated gracefully using kill
+- Force killed using kill -9
+- Listed user processes using ps -u $USER
+
