@@ -1,0 +1,7 @@
+Section 12: Networking Basics
+
+- Identified IP address using ip a and hostname -I
+- Checked listening ports using ss and netstat
+- Verified connectivity with ping google.com
+- Traced network route using traceroute
+
