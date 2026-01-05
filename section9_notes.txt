@@ -1,0 +1,6 @@
+Section 9: Filesystem & Disk Usage
+
+- Checked disk usage of home directory using du -sh
+- Identified top 5 largest files using du, sort, and head
+- Monitored disk I/O using iotop and iostat
+
