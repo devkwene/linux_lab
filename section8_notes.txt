@@ -1,0 +1,6 @@
+Section 8: Cron & Automation
+
+- Created cron job to append date to ~/log.txt every 5 minutes
+- Verified job execution by checking log file
+- Removed cron job after verification
+
