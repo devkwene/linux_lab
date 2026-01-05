@@ -1,0 +1,8 @@
+Section 10: User & Group Management
+
+- Created user testuser using adduser
+- Added testuser to sudo group
+- Verified group membership
+- Switched user using su - testuser
+- Confirmed correct HOME directory
+
