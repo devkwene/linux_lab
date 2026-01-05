@@ -1,0 +1,7 @@
+Section 6: Redirection & Pipes
+
+- Redirected ls -la /etc output to etc_listing.txt
+- Used pipe to count lines in /etc/passwd
+- Found all .conf files in /etc using find
+- Saved results to configs.txt
+
