@@ -1,0 +1,7 @@
+Section 11: System Monitoring & Debugging
+
+- Used top/htop to identify high CPU processes
+- Traced system calls of ls using strace
+- Inspected /proc/<PID>/status, cmdline, and fd
+- Understood how processes interact with the kernel
+
