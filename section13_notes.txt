@@ -1,0 +1,7 @@
+Section 13: Environment & Variables
+
+- Set custom environment variable MY_APP
+- Made variable persistent using ~/.bashrc
+- Created script env_check.sh to read MY_APP
+- Printed Production or Development mode based on value
+
