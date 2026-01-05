@@ -1,0 +1,8 @@
+Section 7: Shell Scripting
+
+- Created backup.sh script
+- Script accepts directory as argument
+- Validates input and directory existence
+- Creates timestamped tar.gz backup
+- Prints success or error messages
+
